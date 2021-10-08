@@ -1,0 +1,8 @@
+1.la base de datos se encuentra en la carpeta que se llama datbase ahi esta la base de datos cuando baya a la base de datos colocara como nombre parking_zone a la
+ base de datos y luego le da importar y pega la tabla sql que esta en la carpeta datbase
+
+2.en la carpeta portafolio encontrara en index.php donde estara todo los enlaces y el portafolio principal
+
+3.en las carpetas modelo,vista,controlador encontrara el crud realizado hacia mi proyecto en la carpeta vista encontrara los index:
+. en la carpeta vista encontrara dos index el primero es el index.php donde esta la tabla de eliminar ,leer,actualizar y
+.el index1.php encontarar para ingresar un vehiculo
